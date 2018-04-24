@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">WeatherApp</string>
+    <string name="dark_sky">Powered By:\n Dark Sky</string>
+    <string name="location">Enter Location</string>
+    <string name="submit">Submit</string>
+    <string name="weather_location">Weather For \n%1$s</string>
+    <string name="summary_placeholder_text">Summary</string>
+    <string name="high_temp_placeholder">90</string>
+    <string name="low_temp_placeholder">/ 90</string>
+    <string name="current_temp_placeholder">48</string>
+    <string name="precip_chance_placeholder">80%</string>
+    <string name="precip_type">Precip:</string>
 </resources>
